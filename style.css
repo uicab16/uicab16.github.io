@@ -1,0 +1,26 @@
+@import 'https://fonts.googleapis.com/css?family=Cormorant';
+body {
+  color: black;
+  font-family: 'Cormorant;
+}
+.thumbnail-picture{
+  width: 50%;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 40px 43px 96px -30px rgba(0, 0, 0, 0.75);
+}
+h1{
+  color: black;
+}
+
+.experience {
+color: blue;
+}
+
+.about{
+  color: blue;
+}
+
+a{
+  color: gray;
+}
